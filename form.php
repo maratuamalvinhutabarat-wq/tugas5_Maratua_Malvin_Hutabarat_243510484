@@ -26,7 +26,7 @@
     $nama = @$_GET['nama'];
     $alamat = @$_GET['alamat'];
 
-    // di sini nanti kita akan tampilkan variabel $nama dan $alamat
+    
     if ($nama) {
         echo "<strong>Nama:</strong> {$nama} <br>";
     }
