@@ -21,7 +21,7 @@
     </form>
 
     <?php 
-    // membuka tag PHP
+
 
     $nama = @$_GET['nama'];
     $alamat = @$_GET['alamat'];
